@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NeonTest1</string>
+    <string name="error_mssg">Something went wrong or invalid video id</string>
+    <string name="fetch_details">Fetch details</string>
+    <string name="clear">Clear</string>
+    <string name="enter_video_id">Enter Video ID</string>
+    <string name="no_internet">Not connected to internet</string>
+</resources>
